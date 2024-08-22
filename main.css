@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 30px 
+}
+.ota{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.bola{
+    color: rgb(0, 0, 0);
+font-size: 32px;
+font-weight: 700;
+}
+.style{
+    width: 301px;
+    margin: 0 auto;
+    color: rgb(0, 0, 0);
+font-size: 64px;
+font-weight: 700;
+margin-top: 35px;
+}
+.auto{
+    justify-content: space-around;
+width: 558px;
+height: 452px;
+background-color: red;
+color: aliceblue;
+font-size: 64px;
+font-weight: 700;
+display: flex;
+align-items: center;
+}
+.magic{
+    display: flex;
+    justify-content: space-around;
+width: 558px;
+height: 452px;
+background-color: red;
+color: aliceblue;
+font-size: 64px;
+font-weight: 700;
+align-items: center;
+}
+.ava{
+    display: flex;
+    justify-content: space-around;
+}
+.padding{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.sava{
+    margin-top: 30px;
+}
+.dada{
+    color: rgb(0, 0, 0);
+font-size: 32px;
+font-weight: 700;
+}
